@@ -7,6 +7,6 @@ Created on Thu Mar 31 11:12:16 2022
 
 print('Hello World')
 
-x= 5
+x= 8
 
 print(x*2)
